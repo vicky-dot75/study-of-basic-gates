@@ -78,8 +78,10 @@ not g6(y6,a);
 endmodule
 
 **Logic symbol & Truthtable**
+<img width="1000" height="595" alt="image" src="https://github.com/user-attachments/assets/8ae7f1f5-c615-46fe-a2c8-366f81d7f36a" />
 
 **RTL realization Output:** 
+![WhatsApp Image 2025-10-03 at 8 55 18 AM](https://github.com/user-attachments/assets/3800d929-de9b-47e7-a935-6ed075d0d606)
 
 **RTL**
 
